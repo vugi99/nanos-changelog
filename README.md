@@ -1,6 +1,7 @@
 # 🎮 nanos world - Changelog Archive
 
 [![Total Changelogs](https://img.shields.io/badge/Changelogs-400%2B-blue.svg)](CHANGELOG_MAP.md)
+[![Sync Changelogs](https://github.com/vugi99/nanos-changelog/actions/workflows/update-changelogs.yml/badge.svg)](https://github.com/vugi99/nanos-changelog/actions/workflows/update-changelogs.yml)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB.svg?logo=python&logoColor=white)](fetch_changelogs.py)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
