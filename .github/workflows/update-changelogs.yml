@@ -3,7 +3,7 @@ name: Sync & Update Changelogs
 on:
   workflow_dispatch: # Allows manual trigger from the GitHub Actions tab
   schedule:
-    - cron: '0 6 * * *' # Automatically runs daily at 06:00 UTC
+    - cron: '0 6 */2 * *' # Automatically runs every 2 days at 06:00 UTC
 
 permissions:
   contents: write
