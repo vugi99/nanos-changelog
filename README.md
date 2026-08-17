@@ -61,6 +61,16 @@ options:
 
 ---
 
+## 🤖 Automated GitHub Actions Workflow
+
+This repository includes a scheduled GitHub Action workflow ([`update-changelogs.yml`](.github/workflows/update-changelogs.yml)) that keeps the archive always up to date:
+
+- **Schedule:** Runs automatically **every 2 days at 06:00 UTC** (`0 6 */2 * *`).
+- **Manual Trigger:** Can be manually triggered at any time from the [GitHub Actions tab](https://github.com/vugi99/nanos-changelog/actions/workflows/update-changelogs.yml) via the **"Run workflow"** button.
+- **Auto Commit & Push:** When new game releases are detected from the API, the action automatically commits and pushes the new changelog files and updated index map.
+
+---
+
 ## 📁 Repository Structure
 
 ```text
