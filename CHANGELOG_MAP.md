@@ -5,9 +5,9 @@
 ## 📊 Summary Statistics
 
 - **Total Versions:** 412
-- **Latest Release:** [1.152.0](changelogs/1.152.0.md)
+- **Latest Release:** [1.152.2](changelogs/1.152.2.md)
 - **Earliest Release:** [0.2.0](changelogs/0.2.0.md)
-- **Last Updated:** 2026-08-25 06:51:21 UTC
+- **Last Updated:** 2026-08-27 17:25:22 UTC
 
 ---
 
@@ -21,7 +21,7 @@
 
 | Version | Release Date | Key Highlights / Summary |
 | :--- | :--- | :--- |
-| **[1.152.0](changelogs/1.152.0.md)** | `2026-08-20` | Added a new method File.Rename(), to rename or move a file or folder. |
+| **[1.152.2](changelogs/1.152.2.md)** | `2026-08-27` | Added a new method File.Rename(), to rename or move a file or folder. |
 
 ### v1.151
 
