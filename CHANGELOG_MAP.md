@@ -5,9 +5,9 @@
 ## 📊 Summary Statistics
 
 - **Total Versions:** 415
-- **Latest Release:** [1.155.1](changelogs/1.155.1.md)
+- **Latest Release:** [1.155.2](changelogs/1.155.2.md)
 - **Earliest Release:** [0.2.0](changelogs/0.2.0.md)
-- **Last Updated:** 2026-09-11 10:47:31 UTC
+- **Last Updated:** 2026-09-13 11:16:27 UTC
 
 ---
 
@@ -21,7 +21,7 @@
 
 | Version | Release Date | Key Highlights / Summary |
 | :--- | :--- | :--- |
-| **[1.155.1](changelogs/1.155.1.md)** | `2026-09-09` | Added Client.GetSettings(). |
+| **[1.155.2](changelogs/1.155.2.md)** | `2026-09-11` | Added Client.GetSettings(). |
 
 ### v1.154
 
