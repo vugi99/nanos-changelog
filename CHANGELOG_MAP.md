@@ -4,10 +4,10 @@
 
 ## 📊 Summary Statistics
 
-- **Total Versions:** 417
-- **Latest Release:** [1.157.0](changelogs/1.157.0.md)
+- **Total Versions:** 418
+- **Latest Release:** [1.157.1](changelogs/1.157.1.md)
 - **Earliest Release:** [0.2.0](changelogs/0.2.0.md)
-- **Last Updated:** 2026-09-29 12:20:02 UTC
+- **Last Updated:** 2026-10-01 12:38:51 UTC
 
 ---
 
@@ -21,6 +21,7 @@
 
 | Version | Release Date | Key Highlights / Summary |
 | :--- | :--- | :--- |
+| **[1.157.1](changelogs/1.157.1.md)** | `2026-09-29` | Now GetSocketTransform() also returns the socket's Scale. |
 | **[1.157.0](changelogs/1.157.0.md)** | `2026-09-23` | Attention: we are updating the default branch to the latest 1.156.0 version. |
 
 ### v1.156
