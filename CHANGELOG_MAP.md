@@ -4,10 +4,10 @@
 
 ## 📊 Summary Statistics
 
-- **Total Versions:** 421
-- **Latest Release:** [1.160.0](changelogs/1.160.0.md)
+- **Total Versions:** 422
+- **Latest Release:** [1.160.1](changelogs/1.160.1.md)
 - **Earliest Release:** [0.2.0](changelogs/0.2.0.md)
-- **Last Updated:** 2026-10-15 11:00:31 UTC
+- **Last Updated:** 2026-10-17 10:17:52 UTC
 
 ---
 
@@ -21,6 +21,7 @@
 
 | Version | Release Date | Key Highlights / Summary |
 | :--- | :--- | :--- |
+| **[1.160.1](changelogs/1.160.1.md)** | `2026-10-16` | Enabled Stats and Achievements for Playtest version. |
 | **[1.160.0](changelogs/1.160.0.md)** | `2026-10-14` | Added a new Steam API to invite friends and handle friend joins: Steam.OpenInviteDialog(), Steam.InviteFriend(), Steam.G... |
 
 ### v1.159
