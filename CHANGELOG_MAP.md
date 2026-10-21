@@ -7,7 +7,7 @@
 - **Total Versions:** 422
 - **Latest Release:** [1.160.1](changelogs/1.160.1.md)
 - **Earliest Release:** [0.2.0](changelogs/0.2.0.md)
-- **Last Updated:** 2026-10-19 12:27:14 UTC
+- **Last Updated:** 2026-10-21 11:21:14 UTC
 
 ---
 
