@@ -4,10 +4,10 @@
 
 ## 📊 Summary Statistics
 
-- **Total Versions:** 427
-- **Latest Release:** [1.166.0](changelogs/1.166.0.md)
+- **Total Versions:** 428
+- **Latest Release:** [1.166.1](changelogs/1.166.1.md)
 - **Earliest Release:** [0.2.0](changelogs/0.2.0.md)
-- **Last Updated:** 2026-10-27 11:45:19 UTC
+- **Last Updated:** 2026-10-29 12:27:59 UTC
 
 ---
 
@@ -21,6 +21,7 @@
 
 | Version | Release Date | Key Highlights / Summary |
 | :--- | :--- | :--- |
+| **[1.166.1](changelogs/1.166.1.md)** | `2026-10-28` | Player profiles can now be opened from the in-game player list, showing teams and badges, as well as your own account, a... |
 | **[1.166.0](changelogs/1.166.0.md)** | `2026-10-26` | Attention: the default branch has been updated to this version as well. |
 
 ### v1.165
