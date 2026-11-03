@@ -4,10 +4,10 @@
 
 ## 📊 Summary Statistics
 
-- **Total Versions:** 431
-- **Latest Release:** [1.167.2](changelogs/1.167.2.md)
+- **Total Versions:** 432
+- **Latest Release:** [1.167.3](changelogs/1.167.3.md)
 - **Earliest Release:** [0.2.0](changelogs/0.2.0.md)
-- **Last Updated:** 2026-11-01 12:49:47 UTC
+- **Last Updated:** 2026-11-03 13:46:46 UTC
 
 ---
 
@@ -21,6 +21,7 @@
 
 | Version | Release Date | Key Highlights / Summary |
 | :--- | :--- | :--- |
+| **[1.167.3](changelogs/1.167.3.md)** | `2026-11-01` | The Find Servers list can now be sorted by Ping and Player Count. |
 | **[1.167.2](changelogs/1.167.2.md)** | `2026-10-31` | Improved the Rating widgets UI/UX on both Game Jam entries and Vault resources. |
 | **[1.167.0](changelogs/1.167.0.md)** | `2026-10-30` | It's Halloween time! 🎃👻 |
 
