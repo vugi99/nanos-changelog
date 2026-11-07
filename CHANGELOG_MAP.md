@@ -4,10 +4,10 @@
 
 ## 📊 Summary Statistics
 
-- **Total Versions:** 434
-- **Latest Release:** [1.169.0](changelogs/1.169.0.md)
+- **Total Versions:** 436
+- **Latest Release:** [1.169.3](changelogs/1.169.3.md)
 - **Earliest Release:** [0.2.0](changelogs/0.2.0.md)
-- **Last Updated:** 2026-11-05 14:11:30 UTC
+- **Last Updated:** 2026-11-07 12:37:36 UTC
 
 ---
 
@@ -21,6 +21,8 @@
 
 | Version | Release Date | Key Highlights / Summary |
 | :--- | :--- | :--- |
+| **[1.169.3](changelogs/1.169.3.md)** | `2026-11-07` | Implemented .webp support for loading images as Unreal Textures and into materials. |
+| **[1.169.2](changelogs/1.169.2.md)** | `2026-11-06` | Attention: the public branch has been updated to the this version as well. |
 | **[1.169.0](changelogs/1.169.0.md)** | `2026-11-05` | Attention: the public branch has been updated to the this version as well. |
 
 ### v1.168
