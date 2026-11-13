@@ -4,10 +4,10 @@
 
 ## 📊 Summary Statistics
 
-- **Total Versions:** 438
-- **Latest Release:** [1.170.1](changelogs/1.170.1.md)
+- **Total Versions:** 440
+- **Latest Release:** [1.170.3](changelogs/1.170.3.md)
 - **Earliest Release:** [0.2.0](changelogs/0.2.0.md)
-- **Last Updated:** 2026-11-11 13:44:17 UTC
+- **Last Updated:** 2026-11-13 19:33:25 UTC
 
 ---
 
@@ -21,6 +21,8 @@
 
 | Version | Release Date | Key Highlights / Summary |
 | :--- | :--- | :--- |
+| **[1.170.3](changelogs/1.170.3.md)** | `2026-11-13` | Attention: the public branch has been updated to the version 1.170.1. |
+| **[1.170.2](changelogs/1.170.2.md)** | `2026-11-12` | Refactored and redesigned the client console with selectable and copyable text, line wrapping, multi-color messages and... |
 | **[1.170.1](changelogs/1.170.1.md)** | `2026-11-11` | Attention: the public branch has been updated to the version 1.170.0. |
 | **[1.170.0](changelogs/1.170.0.md)** | `2026-11-09` | Added client-side Assets.LoadAsync() and Assets.IsLoaded() to load assets asynchronously. |
 
