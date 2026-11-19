@@ -4,10 +4,10 @@
 
 ## 📊 Summary Statistics
 
-- **Total Versions:** 443
-- **Latest Release:** [1.171.2](changelogs/1.171.2.md)
+- **Total Versions:** 445
+- **Latest Release:** [1.171.4](changelogs/1.171.4.md)
 - **Earliest Release:** [0.2.0](changelogs/0.2.0.md)
-- **Last Updated:** 2026-11-17 15:38:39 UTC
+- **Last Updated:** 2026-11-19 15:23:49 UTC
 
 ---
 
@@ -21,6 +21,8 @@
 
 | Version | Release Date | Key Highlights / Summary |
 | :--- | :--- | :--- |
+| **[1.171.4](changelogs/1.171.4.md)** | `2026-11-19` | Attention: the public branch has been updated to the version 1.171.3. |
+| **[1.171.3](changelogs/1.171.3.md)** | `2026-11-18` | New Tebex integration and Tebex Static Class! See our News post https://discord.com/channels/124107916432113666/38542549... |
 | **[1.171.2](changelogs/1.171.2.md)** | `2026-11-17` | Added methods to get a Player's local VOIP settings: GetVOIPLocalVolume(), GetVOIPLocalMaxDistance(), GetVOIPLocalHighPa... |
 | **[1.171.1](changelogs/1.171.1.md)** | `2026-11-16` | Added a NavMesh debug option to visualize the navigation mesh. |
 | **[1.171.0](changelogs/1.171.0.md)** | `2026-11-15` | Attention: the public branch has been updated to the version 1.170.3. |
