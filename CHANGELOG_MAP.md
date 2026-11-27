@@ -4,10 +4,10 @@
 
 ## 📊 Summary Statistics
 
-- **Total Versions:** 448
-- **Latest Release:** [1.172.1](changelogs/1.172.1.md)
+- **Total Versions:** 449
+- **Latest Release:** [1.172.2](changelogs/1.172.2.md)
 - **Earliest Release:** [0.2.0](changelogs/0.2.0.md)
-- **Last Updated:** 2026-11-25 16:55:01 UTC
+- **Last Updated:** 2026-11-27 16:18:45 UTC
 
 ---
 
@@ -21,6 +21,7 @@
 
 | Version | Release Date | Key Highlights / Summary |
 | :--- | :--- | :--- |
+| **[1.172.2](changelogs/1.172.2.md)** | `2026-11-26` | Added Vector2D methods Equals(), IsNearlyZero() and IsZero(). |
 | **[1.172.1](changelogs/1.172.1.md)** | `2026-11-25` | Attention: the public branch has been updated to the version 1.172.0. |
 | **[1.172.0](changelogs/1.172.0.md)** | `2026-11-22` | Attention: the public branch has been updated to the version 1.171.4. |
 
